@@ -1,0 +1,4 @@
+#klavyeden girilen negatif sayıyı pozitif sayıya çevirme:(288.sayfa 12.soru)
+sayi=int(input("negatif bir sayı giriniz :"))
+#negatif bir sayının -1 ile çarpımı pozitifini vericektir.
+print(-1*sayi)
